@@ -4,7 +4,7 @@ Este projeto foi desenvolvido durante a Imersão React da Alura.
 
 No diretório do projeto, executa o comando:
 
-** `npm install` **
+** `npm install`
 
 (Necessário ter o [node.js](https://nodejs.org/en/) instalado)
 
@@ -12,5 +12,6 @@ No diretório do projeto, executa o comando:
 
 No diretório do projeto, executa o comando:
 
-** `npm start` **
+** `npm start`
+
 Abre [http://localhost:3000](http://localhost:3000) no navegador.
